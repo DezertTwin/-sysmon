@@ -21,9 +21,7 @@
 
 <div align="center">
 
-> Add a screenshot: run the app, press `Win+Shift+S`, save to `assets/preview.png`
-
-<!-- <img src="assets/preview.png" alt="SYSMON Preview" width="900"> -->
+<img src="assets/preview.png" alt="SYSMON Preview" width="900">
 
 </div>
 
